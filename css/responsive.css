@@ -1,0 +1,852 @@
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+.header-top-text > ul li {
+    padding: 5px 0 5px 35px;
+}
+.blood-group ul li a p.hover-hide span {
+    font-size: 16px;
+}
+.blood-group ul li a p.hover-hide {
+    font-size: 14px;
+}
+.about-slide img {
+    width: 100%;
+}
+.donate-information-text {
+    height: 215px;
+    margin-bottom: 50px;
+}
+.section-padding {
+    padding: 80px 0;
+}
+.help-content {
+    height: 285px;
+}
+.help-content:hover h2 {
+    color: #ed1f24;
+    font-size: 15px;
+}
+.help-content:hover h2::after {
+    left: -10px;
+    top: -5px;
+}
+.help-content:hover button {
+    margin: 0 0 0 12%;
+}
+.single-home-donor > img {
+    height: 260px;
+    width: 100%;
+}
+.hover-donate-icon {
+    left: 23%;
+}
+.social-links > ul li {
+    padding: 8px 15px;
+}
+.other-info > p {
+    font-size: 16px;
+    padding: 14px 20px;
+}
+.other-info a {
+    font-size: 16px;
+}
+.about-more-us > a, .instrogram a {
+    float: left;
+}
+.instrogram > ul li {
+    margin: 0 17px 20px 0;
+}
+.copy-right > p {
+    font-size: 14px;
+}
+.copy-right > p span {
+    font-size: 13px;
+}
+.footer-social > ul li {
+    margin: 0 0 0 35px;
+}
+.fooeter-menu > ul li {
+    margin: 0 12px 0 0;
+}
+.fooeter-menu > ul li a {
+    font-size: 16px;
+}
+.mobile-num > p {
+    font-size: 14px;
+}
+.single-donor-info > h2 {
+    font-size: 18px;
+}
+.donor-warning > p {
+    font-size: 12px;
+}
+
+
+.contact-text-masg input {
+  margin: 0 30px 30px 0;
+  width: 290px;
+  height: 54px;
+}
+
+.contact-social-media li {
+  height: 150px;
+}
+.simple-page-title h1 {
+  font-size: 45px;
+}
+
+
+
+
+
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.header-top-text > ul li {
+    font-size: 13px;
+    padding: 5px 0 5px 10px;
+}
+.logo-area {
+    padding: 7px 0;
+}
+.logo-area img {
+    width: 80%;
+}
+.menu-bar ul li a {
+    font-size: 16px;
+}
+.menu-bar ul li {
+    padding: 2px 0 0 30px;
+}
+.top-page-text {
+    padding: 130px 0 170px;
+}
+.top-page-text > h1 {
+    font-size: 35px;
+}
+.top-page-text > h1 span {
+    font-size: 28px;
+}
+.top-page-text ul li {
+    margin: 0 50px 0 0;
+}
+.top-page-text ul li a {
+    font-size: 16px;
+    padding: 16px 36px;
+}
+.blood-group ul li a h1 {
+    font-size: 40px;
+}
+.blood-group ul li a h2 {
+    font-size: 18px;
+}
+.blood-group ul li a p {
+    font-size: 13px;
+}
+.blood-group ul li a p.hover-hide {
+    font-size: 12px;
+}
+.blood-group ul li a p.hover-hide span {
+    font-size: 13px;
+}
+.blood-group > ul li {
+    height: 180px;
+}
+.section-padding {
+    padding: 65px 0;
+}
+.about-page-bg {
+    margin: 25% 0 0;
+}
+.about-slide > img {
+    margin-top: 45%;
+    width: 100%;
+}
+.about-text > p {
+    font-size: 14px;
+}
+.donate-information-text {
+    height: 250px;
+}
+.donate-info-title > h1 {
+    font-size: 25px;
+}
+.donate-information-text h2::after {
+    font-size: 15px;
+    height: 30px;
+    left: -10px;
+    padding: 2px 0;
+    width: 30px;
+}
+.donate-information-text h2 {
+    font-size: 15px;
+    padding-left: 28px;
+}
+.donate-information-text p {
+    font-size: 14px;
+    padding-left: 28px;
+    padding-top: 10px;
+}
+.help-content img {
+    height: 45px;
+    margin-bottom: 15px;
+    width: 25%;
+}
+.help-content h2 {
+    font-size: 16px;
+}
+.help-content p {
+    font-size: 12.5px;
+}
+.help-content:hover h2 {
+    font-size: 14px;
+}
+.help-content:hover h2.become-donor::after {
+    background-size: 16% auto;
+    left: -12%;
+}
+.help-content:hover h2.finding-blood::after {
+    background-size: 16% auto;
+    left: -8%;
+}
+.help-content:hover h2.gift-donor::after {
+    background-size: 16% auto;
+    left: -8%;
+}
+.help-content:hover h2.Campaigning::after {
+    background-size: 16% auto;
+    left: -15%;
+}
+.help-content:hover p {
+    font-size: 12px;
+}
+.help-content button:hover a {
+    font-size: 12px;
+}
+.help-content:hover button {
+    display: block;
+    margin: 0 0 0 5%;
+    text-align: center;
+}
+.help-content > button {
+    padding: 8px 15px;
+}
+.single-home-donor > img {
+    height: 185px;
+    width: 100%;
+}
+.donor-text > h2 {
+    font-size: 16px;
+}
+.donor-text > p {
+    font-size: 12px;
+}
+.donor-text {
+    padding: 10px 5px 0;
+}
+.hover-donate-icon ul li {
+    margin: 0 9px 0 0;
+    padding: 4px;
+    width: 32px;
+}
+.hover-donate-icon li a {
+    font-size: 15px;
+}
+.hover-donate-icon ul li.icon::after {
+    background-size: 15px auto;
+    font-size: 8px;
+    padding: 5px 0 0;
+    top: -6px;
+}
+.more-donor a {
+    font-size: 16px;
+}
+.counting-mathine > h2 {
+    font-size: 30px;
+}
+.counting-mathine p {
+    font-size: 13px;
+}
+.video {
+    height: 200px;
+}
+.contact-text h2 {
+    font-size: 25px;
+    margin-top: 10px;
+}
+.contact-text p {
+    font-size: 16px;
+}
+.local-area {
+    padding-bottom: 25px;
+}
+.area-number > h3, .area-number > h2, .area-number > h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.area-number > p {
+    font-size: 12px;
+}
+.area-number ol {
+    padding: 0;
+}
+.area-number > ol li {
+    font-size: 12px;
+    padding: 11px 4px 0;
+}
+.other-info > p {
+    font-size: 13px;
+    padding: 9px 15px;
+}
+.other-info a {
+    font-size: 15px;
+    padding: 0 5px;
+}
+.social-links > ul li {
+    margin: 0 12px 0 0;
+    padding: 7px 14px;
+}
+.social-links > ul li a {
+    font-size: 18px;
+}
+.about-more-us > h2, .help-link h2, .more-links h2, .instrogram h2 {
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+.about-more-us > p {
+    font-size: 12px;
+    margin: 0 0 10px;
+}
+.about-more-us > a, .instrogram a {
+    font-size: 12px;
+}
+.help-link ul li, .more-links ul li {
+    margin-bottom: 10px;
+}
+.help-link ul li a, .more-links ul li a {
+    font-size: 12px;
+}
+.instrogram > ul li {
+    margin: 0 22px 19px 0;
+}
+.footer-bottom {
+    padding: 10px 0;
+}
+.copy-right > p {
+    font-size: 13px;
+}
+.copy-right > p span {
+    font-size: 12px;
+}
+.footer-social > ul li {
+    margin: 0 14px 0 0;
+}
+.footer-social > ul li a {
+    font-size: 14px;
+}
+.fooeter-menu > ul li {
+    margin: 0 0 0 7px;
+}
+.fooeter-menu > ul li a {
+    font-size: 13px;
+}
+.title-text h2 {
+    font-size: 22px;
+    padding-bottom: 15px;
+}
+.title-text p {
+    font-size: 15px;
+}
+.title-text {
+    padding-bottom: 50px;
+}
+.we-are-text > h3 {
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.we-are-text {
+    margin-bottom: 30px;
+}
+.we-are-img > img {
+    padding-top: 45%;
+}
+.mission-right::after {
+    right: -99px;
+    top: -115px;
+    width: 100%;
+}
+.mission-right > h1 {
+    font-size: 35px;
+}
+.mission-right > p {
+    font-size: 25px;
+}
+.mission-right span {
+    font-size: 38px;
+    font-weight: bold;
+}
+.mission-right {
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.support-text > h1, .support-financial h1 {
+    font-size: 24px;
+}
+.support-text ol li {
+    font-size: 14px;
+}
+.support-financial > p {
+    font-size: 14px;
+}
+.support-financial > button {
+    margin: 0;
+    padding: 12px 41px;
+}
+.about-footer-link > ul li span {
+    display: none;
+}
+.about-footer-link > ul li a {
+    left: 55%;
+}
+.about-footer-link li::after {
+    left: 47%;
+}
+.top-page-text {
+    padding: 40px 0;
+}
+.single-donor-info h2 {
+    font-size: 14px;
+}
+.mobile-num > p {
+    font-size: 10px;
+}
+.single-donor-info > ul li {
+    font-size: 12px;
+}
+.single-donor-info {
+    padding: 20px 8px 15px;
+}
+.donor-permission {
+    padding: 5px 11px;
+}
+.donor-warning > p {
+  font-size: 12px;
+}
+.simple-page-title p {
+  font-size: 18px;
+}
+
+
+
+
+
+.contact-text-masg input {
+  font-size: 15px;
+  height: 50px;
+  margin: 0 20px 30px 0;
+  width: 190px;
+}
+.contact-text-masg textarea {
+  font-size: 15px;
+  height: 120px;
+}
+.contact-social-media li {
+  border-radius: 5px;
+  height: 125px;
+}
+.contact-social-media li a {
+  font-size: 50px;
+}
+
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 767px) {
+.header-top {
+    display: none;
+}
+.about-info-area {
+    display: none;
+}
+.help-us-area {
+    display: none;
+}
+.title-text p {
+    display: none;
+}
+.video {
+    display: none;
+}
+.other-info {
+    display: none;
+}
+.footer-top {
+    display: none;
+}
+.footer-bottom {
+    display: none;
+}
+.logo-area {
+    display: none;
+}
+.mobile-logo-area {
+    display: block;
+}
+.mobile-logo-area img {
+    margin: 5px 0;
+    width: 110px;
+}
+.navbar-toggle .icon-bar {
+    border: 1px solid;
+}
+.menu-bar {
+    float: left;
+    position: relative;
+}
+.navbar-collapse.in {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 1px 1px 5px -2px;
+    margin: 0 0 0 -16px;
+    overflow-y: auto;
+    position: absolute;
+    width: 220px;
+    z-index: 999;
+}
+.menu-bar ul li.active a {
+    background: red none repeat scroll 0 0;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    width: 45%;
+}
+.menu-bar ul li {
+    margin: 0 0 0 21px;
+    padding: 10px 0;
+}
+.top-page-text {
+    padding: 70px 0 120px;
+}
+.top-page-text > h1 {
+    font-size: 23px;
+}
+.top-page-text > h1 span {
+    font-size: 17px;
+}
+.top-page-text > p {
+    font-size: 12px;
+    padding: 20px 0 40px;
+}
+.top-page-text ul li a {
+    border-radius: 2px;
+    font-size: 12px;
+    padding: 10px 15px;
+}
+.top-page-text ul li {
+    margin: 0 15px 0 13px;
+}
+.section-padding {
+    padding: 35px 0;
+}
+.title-text h2 {
+    font-size: 20px;
+}
+.title-text {
+    padding-bottom: 15px;
+}
+.blood-group > ul li {
+    height: 165px;
+    width: 50%;
+}
+.blood-group > ul li.mobile-bor-no {
+    border-right: medium none;
+}
+.blood-group ul li a h1 {
+    font-size: 35px;
+}
+.blood-group ul li a h2 {
+    font-size: 15px;
+}
+.blood-group ul li a p {
+    font-size: 9px;
+}
+.blood-group ul li a p.hover-hide span {
+    font-size: 9px;
+    font-weight: bold;
+}
+.blood-group ul li a p.hover-hide {
+    font-size: 9px;
+}
+.blood-group > ul li.mobile-bor-bot {
+    border-bottom: 1px solid #c2c0c0;
+}
+.single-home-donor > img {
+    height: 160px;
+    width: 100%;
+}
+.donor-text {
+    padding: 10px 5px 0;
+}
+.donor-text > h2 {
+    font-size: 14px;
+}
+.donor-text > p {
+    font-size: 9px;
+}
+.single-home-donor {
+    height: 215px;
+    margin-bottom: 25px;
+}
+.more-donor.text-center {
+    margin-top: 15px;
+}
+.more-donor a {
+    font-size: 14px;
+}
+.hover-donate-icon ul li {
+    margin: 0 6px 0 0;
+    padding: 2px 3px;
+    width: 28px;
+}
+.hover-donate-icon li a {
+    font-size: 13px;
+}
+.hover-donate-icon ul li.icon::after {
+    background-size: 11px auto;
+    left: 1px;
+    top: -5px;
+}
+.counting-mathine > h2 {
+    font-size: 25px;
+}
+.counting-mathine p {
+    font-size: 9px;
+}
+.contact-text h2 {
+    font-size: 18px;
+}
+.contact-text p {
+    font-size: 12px;
+}
+.area-number > h3::after {
+    font-size: 22px;
+    left: -11px;
+}
+.area-number > h3, .area-number > h2, .area-number > h4 {
+    font-size: 15px;
+}
+.area-number > p {
+    font-size: 11px;
+}
+.area-number ol {
+    padding: 0 15px;
+}
+.area-number > ol li {
+    font-size: 15px;
+    padding: 10px 8px 0;
+}
+.social-links > ul li {
+    border-radius: 3px;
+    margin: 0 0 0 17px;
+    padding: 2px 12px;
+}
+.footer-mobile {
+    background: #525151 none repeat scroll 0 0;
+    display: block;
+    padding: 10px 0;
+}
+.copy-right > p i {
+    font-size: 12px;
+    padding: 0 2px 0 0;
+}
+.copy-right > p span {
+    font-size: 10px;
+    padding: 0 0 0 15px;
+}
+.copy-right > p {
+    font-size: 12px;
+    position: relative;
+}
+.copy-right span::after {
+    background: #fff none repeat scroll 0 0;
+    content: "";
+    height: 15px;
+    left: 28%;
+    position: absolute;
+    width: 1px;
+}
+.simple-page-title {
+    padding: 28px 0 0;
+}
+.top-page-text > p {
+    padding: 3px 0 28px;
+}
+.about-single-page-bg {
+    display: none;
+}
+.about-text > a {
+    display: none;
+}
+.about-slide {
+    display: none;
+}
+.mission-right {
+    display: none;
+}
+.why-we-are {
+    display: none;
+}
+.mission-text button {
+    border-radius: 6px;
+    padding: 10px 29px;
+}
+.mission-text > h1 {
+    font-size: 20px;
+}
+.support-text > h1, .support-financial h1 {
+    font-size: 20px;
+}
+.support-text ol li {
+    font-size: 13px;
+}
+.support-financial > p {
+    font-size: 13px;
+    padding-bottom: 11px;
+}
+.support-financial > button {
+    border-radius: 5px;
+    margin: 14px 0 0;
+    padding: 9px 44px;
+}
+.title-text.blood-pg > p {
+    display: block;
+}
+.title-text.blood-pg.text-center a {
+    color: #2f363f;
+    display: block;
+    text-decoration: underline;
+}
+.blood-warning-text {
+    border-left: medium none;
+    border-radius: 0;
+    padding: 0;
+}
+.blood-warning-text p {
+    border-left: medium none;
+    border-radius: 0;
+    padding: 30px;
+}
+.left-text > h2 {
+    background: #ed1c24 none repeat scroll 0 0;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 0;
+    text-align: center;
+}
+.left-text {
+    width: 100%;
+}
+.right-text > ul {
+    padding: 0 30px;
+}
+.right-text > h2 {
+    font-size: 20px;
+    padding: 0 30px 15px;
+}
+.right-text {
+    float: none;
+}
+.right-text li a {
+    padding: 0 22px;
+}
+
+
+
+
+.single-donor-info > h2 {
+  font-size: 15px;
+}
+.single-donor-info {
+  padding: 20px 10px 15px;
+}
+.single-donor-info > ul li {
+  font-size: 12px;
+}
+.mobile-num {
+  padding: 5px 18px;
+}
+.mobile-num > p {
+  font-size: 13px;
+}
+.blood-warning-text {
+  border-left: medium none;
+  border-top: 10px solid red;
+}
+
+.contact-social-media li {
+  height: 100px;
+}
+.contact-social-media li a {
+  font-size: 35px;
+}
+.contact-text-masg input.none-margin {
+  margin: 15px 0;
+}
+.contact-text-masg input {
+  font-size: 14px;
+  height: 40px;
+  margin: 0 0 0 0;
+  width: 98%;
+}
+.contact-text-masg textarea {
+  font-size: 15px;
+  margin: 0 20px 30px 0;
+  padding: 13px 20px;
+  width: 98%;
+}
+
+
+
+
+
+
+
+
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.single-home-donor {
+    height: 215px;
+    margin-bottom: 175px;
+}
+.single-home-donor > img {
+    height: 297px;
+    width: 100%;
+}
+.copy-right > p {
+    text-align: center;
+}
+.copy-right span::after {
+    left: 43%;
+}
+.mobile-num > p {
+  font-size: 16px;
+}
+.single-donor-info > h2 {
+  font-size: 18px;
+}
+.donor-permission {
+  padding: 5px 8px;
+}
+.blood-warning-text {
+  border-left: 9px solid red;
+}
+.donor-warning > p {
+  font-size: 11px;
+}
+
+
+}

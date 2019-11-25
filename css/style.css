@@ -1,0 +1,339 @@
+
+
+.error, .disable, .empty{
+  color: red;
+  font-weight: bold;
+}
+.success{
+  color: green;
+  font-weight: bold;
+}
+.adminHdtext {
+  border-bottom: 1px dotted #ccc;
+}
+.adminHdtext h2 {
+  font-size: 22px;
+  margin: 15px 0 10px;
+}
+.userName {
+  color: #888;
+  float: right;
+  font-size: 15px;
+  padding: 8px;
+}
+
+.icon p {
+    color: #045b62;
+    font-family: roboto;
+    font-size: 24px;
+    margin: 25px 0 0 72px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 2px 3px 5px #000;
+}
+.examIcon i {
+    font-size: 140px;
+    margin: -1px 0 0 25px;
+}
+.functionArea > a {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px 2px #000;
+  color: #000;
+  font-size: 16px;
+  margin: 85px 0 0 100px;
+  padding: 15px 40px;
+  position: absolute;
+  background: #045b62;
+  color: #fff;
+}
+.functionArea a:hover {
+  background: #044c62;
+  text-decoration: none;
+  color: #fff;
+}
+.adminPanelText {
+    padding: 90px 0 0;
+}
+.adminPanelText > h2 {
+    margin: 0;
+}
+.adminpaneltext p {
+    color: #ccc;
+    float: left;
+    font-size: 24px;
+}
+
+
+.container_custom {
+  margin: 0 15%;
+  width: 70%;
+}
+.container_body {
+  width: 100%;
+}
+.header {
+  background: #008579 none repeat scroll 0 0;
+  height: 100px;
+  position: relative;
+}
+.text h3 {
+  color: #fff;
+  font-size: 30px;
+  padding: 13px 0;
+  text-shadow: 1px 2px 2px #000;
+  float:left;
+}
+
+.text i {
+  color: #fff;
+  float: right;
+  font-size: 80px;
+  margin: 13px 83px 0 0;
+  text-shadow: 1px 1px 3px #000000;
+}
+.mainContent {
+  background: #dbdddb none repeat scroll 0 0;
+  min-height: 478px;
+  padding: 15px;
+}
+
+.footer {
+  background: #424341 none repeat scroll 0 0;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+.menu {
+  height: 48px;
+  position: relative;
+}
+.menu ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+.menu ul li {
+  float: left;
+  margin: 0 5px 0 0;
+  padding: 5px;
+}
+.menu ul li a {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #888;
+    font-size: 16px;
+    padding: 4px 5px;
+}
+.menu ul li a:hover {
+	text-decoration:none;
+}
+
+.mainBodyContente {
+  background: #fff none repeat scroll 0 0;
+  border: 2px solid #ccc;
+  min-height: 400px;
+}
+.mainBodyContentetIndex {
+  background: #fff none repeat scroll 0 0;
+  min-height: 478px;
+  padding: 15px;
+  min-height: 398px;
+}
+
+
+.bodyHeadertText h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  padding: 8px 0;
+  text-align: center;
+}
+.bodyHeadertText {
+    background: #f3f4f2 none repeat scroll 0 0;
+    border: 2px solid #ccc;
+    box-shadow: 4px 4px 2px -3px #000;
+    margin: 30px 0 0 0;
+}
+
+.bodyImage {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 30px 0;
+  min-height: 285px;
+  padding: 20px;
+}
+
+.functionArea {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 30px 0;
+  min-height: 285px;
+  padding: 20px;
+}
+
+
+table tbody tr td {
+  padding: 0 15px 0 0;
+}
+table tbody tr td input {
+  margin: 3px 0 8px;
+}
+
+.functionArea p {
+  margin: 0;
+  padding: 0;
+}
+.functionArea p a {
+  color: #008579;
+  font-size: 15px;
+  font-weight: bold;
+}
+.functionArea p a:hover {
+  text-decoration:none;
+}
+.icon {
+  margin: 50px 0 0 72px;
+}
+.bodyImage i {
+  color: #045b62;
+  font-size: 140px;
+}
+
+.styleIcon {
+  margin: -139px 0 0 85px;
+  position: absolute;
+  text-align: center;
+}
+.styleIcon i {
+  color: #008579;
+  text-shadow: 3px 3px 4px #000;
+}
+
+.adminLloginFunctionArea {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  height: auto;
+  margin: 50px 0 120px;
+  padding: 20px;
+}
+
+
+
+
+.manageUser {
+    padding: 15px 0;
+}
+table {
+  width: 100%;
+}
+.manageUser table tr th {
+  background: #ccc none repeat scroll 0 0;
+  border: 2px solid #fff;
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+.manageUser tr td {
+  padding: 5px;
+}
+
+.addques {
+  padding: 20px 0;
+}
+
+.strttest {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 35px 0;
+  padding: 40px 20px;
+}
+.strttest > h3 {
+    font-size: 20px;
+    margin: 0;
+    padding: 5px 0;
+}
+.strttest p {
+    font-size: 16px;
+}
+.strttest ul {
+    list-style: outside none none;
+    margin: 0 0 15px;
+    padding: 0;
+}
+.strttest ul li {
+    padding: 3px 0;
+}
+.strttest a {
+    border: 1px solid #ddd;
+    color: #888;
+    font-size: 20px;
+    margin: 6px 0;
+    padding: 6px 40%;
+    position: relative;
+    text-align: center;
+}
+.strttest a:hover {
+    border: 1px solid #008579;
+    color: #008579;
+    text-decoration: none;
+}
+
+.test {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 35px 0;
+  padding: 40px 20px;
+}
+.test h3 {
+    font-size: 18px;
+    padding: 15px 0;
+}
+.test table tr td input {
+    font-size: 15px;
+    margin: 8px 5px;
+}
+
+.final {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 35px 0;
+  padding: 40px 20px;
+}
+
+.final > a {
+    background: #ddd none repeat scroll 0 0;
+    border: 1px solid #888;
+    color: #444;
+    padding: 5px 20px;
+}
+.final p {
+    font-size: 16px;
+    margin: 0 0 11px;
+}
+
+
+.link > a {
+    border: 1px solid #888;
+    border-radius: 4px;
+    color: #888;
+    font-size: 17px;
+    margin: 0;
+    padding: 5px 250px;
+    text-align: center;
+}
+.link {
+    margin: 33px 0 0;
+    text-align: center;
+}
+
+
+
+
